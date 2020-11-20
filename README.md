@@ -1,2 +1,2 @@
 # hello-world
-A time-honored tradition.
+A time-honoured tradition.
